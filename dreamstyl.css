@@ -1,0 +1,16 @@
+h1 {
+    font-size: 33px;
+    font-family: 'Segoe UI', Tahoma, "Geneva", Verdana, sans-serif;
+     text-decoration: underline;
+     color: dodgerblue;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     text-align-last: center;
+}
+
+.ghost{
+    width: 250px;
+    height: 350px;
+}
